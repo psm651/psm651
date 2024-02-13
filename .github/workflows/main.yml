@@ -5,7 +5,7 @@ name: Readme Update
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "12 0 */1 * *"
+    - cron: " 22 * * * *"
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"

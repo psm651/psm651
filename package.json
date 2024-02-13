@@ -1,0 +1,24 @@
+{
+  "name": "psm651",
+  "version": "1.0.0",
+  "description": "<!-- **psm651/psm651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psm651/psm651.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psm651/psm651/issues"
+  },
+  "homepage": "https://github.com/psm651/psm651#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

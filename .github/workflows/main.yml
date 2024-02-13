@@ -24,7 +24,7 @@ on:
 		- name: Commit README
 		  run: |
 			  git add .
-			  git config --local user.email "본인 github 이메일"
-			  git config --local user.name "본인의 github 이름"
+			  git config --local user.email "psm651@naver.com"
+			  git config --local user.name "psm651"
 			  git commit -m "Update README.md"
 			  git push

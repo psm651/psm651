@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node readmeUpdate.js"
+    "start": "node readmeUpdate.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,7 @@
   "homepage": "https://github.com/psm651/psm651#readme",
   "dependencies": {
     "rss-parser": "^3.13.0"
-  }
+  },
+  "type": "module",
+  "devDependencies": {}
 }

@@ -5,7 +5,7 @@ name: Readme Update
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 */3 * * *"
   push:
     branches: [ "main" ]
   pull_request:
